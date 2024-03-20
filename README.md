@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iskb-official
-- 👀 I’m interested in ... coading and gaming.
+- 👀 I’m interested in ... coding and gaming.
 - 🌱 I’m currently learning ... python, c++ and html.
 - 💞️ I’m looking to collaborate on ... learning. 
 - 📫 How to reach me ... www.facebook.com/iskb.official 
