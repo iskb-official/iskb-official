@@ -14,7 +14,7 @@
 
 ### 🚗 Traffic Sign Recognition for Autonomous Vehicles
 
-**Repo:** `Optimizing-Traffic-Sign-Recognition-for-Autonomous-Vehichles-Using-SSD-MobileNet_v2`  
+**Repo:** [`Optimizing-Traffic-Sign-Recognition-for-Autonomous-Vehichles-Using-SSD-MobileNet_v2`](https://github.com/iskb-official/Optimizing-Traffic-Sign-Recognition-for-Autonomous-Vehichles-Using-SSD-MobileNet_v2)  
 
 - Uses **SSD MobileNet v2** for real‑time traffic‑sign detection and recognition.
 - Focuses on **efficiency** (FPS) and **accuracy**, making it suitable for embedded or on‑car systems.
